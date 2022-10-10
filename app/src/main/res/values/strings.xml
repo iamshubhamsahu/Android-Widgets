@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">autocomplete</string>
+    <string name="hint">Search Here</string>
+    <string name="submit">Submit</string>
+    <string name="submit_food">FOOD</string>
+    <string-array name="Department">
+        <item>Android</item>
+        <item>HR</item>
+        <item>Accounting</item>
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Security</item>
+        <item>Data Science</item>
+        <item>Full Stack</item>
+
+    </string-array>
+</resources>

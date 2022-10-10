@@ -1,0 +1,11 @@
+package com.example.androidwidgets
+
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+
+class RadioButton : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_radio_button)
+    }
+}
